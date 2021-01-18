@@ -1,0 +1,57 @@
+body {
+    background-color: rgb(194, 194, 194);
+    background-size: 100% auto;
+    background-repeat: repeat;
+    background-attachment: fixed;
+    opacity: 0.9;
+}
+
+
+caption {
+    font-size: 1cm;
+    text-shadow: 3px 5px 3px brown;
+    margin: 0.8cm;
+}
+
+.title {
+    color: rgb(30,120,40);
+    background-color:rgb(47, 66, 73);
+    border-left: 5px solid rgb(76, 97, 73);
+    border-top: 5px solid rgb(76, 97, 73);
+    border-right: 5px solid rgb(76, 97, 73);
+    border-bottom: 5px solid rgb(76, 97, 73);
+
+}
+
+td {
+    text-align: center;
+}
+
+table {
+    background-color: rgb(180,180,180);
+    color: royalblue;
+    width: 90%;
+    margin: auto;
+    border-left: 5px solid rgb(126, 236, 112);
+    border-top: 5px solid rgb(126, 236, 112);
+    border-right: 5px solid rgb(126, 236, 112);
+    border-bottom: 5px solid rgb(126, 236, 112);
+}
+
+#important {
+    border-top: 5px solid rgb(83, 83, 83);
+    border-bottom: 5px solid rgb(83, 83, 83);
+    border-right: 5px solid rgb(83, 83, 83);
+    border-left: 5px solid rgb(83, 83, 83);
+    color: rgb(133, 133, 133);
+    background-color: rgb(50,50,50);
+}
+
+#information {
+    border-top: 5px solid rgb(241, 199, 199);
+    border-bottom: 5px solid rgb(241, 199, 199);
+    border-right: 5px solid rgb(241, 199, 199);
+    border-left: 5px solid rgb(241, 199, 199);
+    color: rgb(48, 42, 42);
+    background-color: rgb(184, 139, 139);
+}
